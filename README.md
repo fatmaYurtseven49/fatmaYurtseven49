@@ -40,7 +40,11 @@
 </div>
 
 <hr/>
----
+
+
+
+
+
 <div align="center">
   <i>Profilimi ziyaret ettiğin için teşekkürler! ⭐️</i>
 </div>
