@@ -7,8 +7,8 @@
     <em>Yazılım geliştirme dünyasında kendimi geliştiriyor ve yeni teknolojiler öğreniyorum.</em>
   </p>
   
-  <a href="https://linkedin.com/in/senin-kullanici-adin">
-    <img src="www.linkedin.com/in/fatma-yurtseven-38b524249 style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/fatma-yurtseven-38b524249">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fatmayurtseven2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -40,6 +40,7 @@
 </div>
 
 <hr/>
+
 
 
 
