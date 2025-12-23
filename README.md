@@ -1,32 +1,61 @@
-# Selamlar, ben Fatma! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Fatma;Kod+yazmay%C4%B1+seviyorum;Projelerime+g%C3%B6z+at!;Open+Source+Enthusiast" alt="Typing SVG" />
+  
+  <h1>Selam, ben Fatma! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  
+  <p>
+    <em>Yazılım geliştirme dünyasında kendimi geliştiriyor ve yeni teknolojiler öğreniyorum.</em>
+  </p>
+  
+  <a href="https://linkedin.com/in/senin-kullanici-adin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seninmailin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-Yazılım geliştirme dünyasında kendini geliştiren, teknolojiye meraklı bir geliştiriciyim. Özellikle Web Geliştirme ve kullanıcı dostu uygulamalar üzerine çalışıyorum.
-
----
+<hr/>
 
 ### 👩‍💻 Hakkımda
 
-- 🔭 Şu anda **[Route Navigation for Popular Places](https://github.com/fatmaYurtseven49/rote_navigation_for_popular_place)** projesi üzerinde çalışıyorum.
-- 🌱 **JavaScript, HTML, CSS** ve **Modern Web Teknolojileri** öğrenmeye devam ediyorum.
-- 🎯 Hedefim: İnsanların hayatını kolaylaştıran, erişilebilir ve estetik web uygulamaları geliştirmek.
-- ⚡ **Eğlenceli Gerçek:** Kod yazmadığım zamanlarda yeni yerler keşfetmeyi severim!
+- 🔭 Şu anda **kendi projelerim üzerinde çalışıyor ve portföyümü geliştiriyorum.**
+- 🌱 Şu sıralar **yeni algoritmalar ve web teknolojileri** öğreniyorum.
+- 👯 İş birliği yapmaya açığım!
+- ⚡ **Eğlenceli Gerçek:** Kod yazmadığım zamanlarda teknoloji dünyasındaki gelişmeleri takip etmeyi severim.
+
+<hr/>
+
+### 🛠️ Diller ve Teknolojiler
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+<hr/>
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmaYurtseven49&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Fatma's Stats" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaYurtseven49&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaYurtseven49&theme=tokyonight&hide_border=true&locale=tr" alt="Streak" />
+</div>
 
 ---
-
-### 🛠️ Yetenekler & Teknolojiler
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
----
-
-
----
-
-### 🤝 İletişim
-
-Bana GitHub üzerinden ulaşabilir veya projelerime katkıda bulunabilirsiniz!
-
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/fatmaYurtseven49)
+<div align="center">
+  <i>Profilimi ziyaret ettiğin için teşekkürler! ⭐️</i>
+</div>
