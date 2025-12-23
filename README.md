@@ -40,21 +40,6 @@
 </div>
 
 <hr/>
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmaYurtseven49&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="Fatma's Stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaYurtseven49&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaYurtseven49&theme=tokyonight&hide_border=true&locale=tr" alt="Streak" />
-</div>
-
 ---
 <div align="center">
   <i>Profilimi ziyaret ettiğin için teşekkürler! ⭐️</i>
