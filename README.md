@@ -8,9 +8,9 @@
   </p>
   
   <a href="https://linkedin.com/in/senin-kullanici-adin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="www.linkedin.com/in/fatma-yurtseven-38b524249style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seninmailin@gmail.com">
+  <a href="mailto:fatmayurtseven2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
